@@ -21,7 +21,7 @@ yang diurutkan otomatis. Program terdiri dari dua file: TebakKata.h dan TebakKat
 -Program 3:
 
 -Program 4: game Minesweeper ++
-game ini adalah game tebak-tebakan di mana pemain harus menemukan semua bom yang tersembunyi di dalam sebuah papan kotak-kotak, sampai menginjak (membuka) salah satunya. 
+Game ini adalah game tebak-tebakan di mana pemain harus menemukan semua bom yang tersembunyi di dalam sebuah papan kotak-kotak, sampai menginjak (membuka) salah satunya. 
 Cara mainnya:
 - Pemain bebas pilih ukuran papan, dari 4×4 sampai 10×10, dan berapa banyak bom yang mau ditanam.
 - Setiap giliran, pemain bisa buka kotak untuk lihat isinya, atau pasang tanda F di kotak yang dicurigai ada bom.
