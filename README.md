@@ -29,3 +29,4 @@ Cara mainnya:
 - Kalau berhasil menandai semua bom dengan tepat tanpa satu pun salah posisi, pemain menang.
 
 -Program 5:
+Game Tebak Nama Negara adalah game berbasis teks (console game) di mana pemain harus menebak nama negara dari petunjuk huruf yang sebagian disembunyikan oleh sensor (_) secara acak. Game ini dilengkapi dengan sistem skor otomatis dan fitur lanjut bermain untuk mengumpulkan poin tertinggi.
