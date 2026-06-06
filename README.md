@@ -35,3 +35,7 @@ Cara mainnya:
 - 🗺️ Program 5: Game Tebak Nama Negara 🗺️
 
 Game Tebak Nama Negara adalah game berbasis teks (console game) di mana pemain harus menebak nama negara dari petunjuk huruf yang sebagian disembunyikan oleh sensor (_) secara acak. Game ini dilengkapi dengan sistem skor otomatis dan fitur lanjut bermain untuk mengumpulkan poin tertinggi.
+
+✨ Link GDrive : https://drive.google.com/drive/folders/1ZdEkZDuT5M687u3JhYUQAuqUkDyXvzft?usp=sharing
+
+✨ Link Youtube : https://youtu.be/vZAkcHQpoIU?si=OC9RpZtycy9rFV5v
